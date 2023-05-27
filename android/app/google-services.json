@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492720630421",
+    "project_id": "chat-cfe93",
+    "storage_bucket": "chat-cfe93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492720630421:android:3c2069759ac462c8cb099c",
+        "android_client_info": {
+          "package_name": "com.ahqrt.chat_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwIMIUdjkfcc9YY4ryhOph5ubZNv_bjWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
